@@ -1,3 +1,3 @@
 y = 1 + 1
 
-'#{}is the loneliest number'
+"#{y} is the loneliest number"
